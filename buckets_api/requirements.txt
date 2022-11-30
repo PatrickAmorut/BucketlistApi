@@ -1,0 +1,12 @@
+Flask-Marshmallow
+flask-jwt-extended
+Flask-JWT
+PyJWT
+PyMySQL
+SQLAlchemy
+gunicorn
+Flask-jwt-extended
+Flask-login
+marshmallow-sqlalchemy
+validators
+flask_restful
